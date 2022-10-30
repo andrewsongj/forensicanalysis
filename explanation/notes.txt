@@ -17,4 +17,8 @@ Extracted chat logs from the following dir: home/johnnydoe461/.purple/logs/jabbe
 
 For the attack I think the following is of interest
     var/log/auth.log
+	nov 3 18:32:06 disconnect from 10.46.1.105
+	attack from: 10.46.1.105
+	victim: 0.0.0.0
+	
 
