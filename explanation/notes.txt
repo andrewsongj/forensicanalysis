@@ -2,6 +2,9 @@ Used top 10 million passwords to crack the victim
     sexyman          (johnnydoe461)
     sexyboy          (root)
 
+Mount victom.raw:
+    sudo mount --options loop,ro,noexec,offset=1048576 victim.raw ./tempmount/
+
 # cp1.1.login.txt
 
 Login name got via opening terminal
@@ -41,7 +44,21 @@ For the attack I think the following is of interest
     Victim IPs during attack -- got from /var/log/syslog
         10.46.1.103
 
+Regex to find victim IP registrations:
+    johnnydoe461-laptop NetworkManager\[\d*\]: <info>    address
+
+Nov  3 18:28:32 johnnydoe461-laptop NetworkManager[469]: <info>    address 10.46.1.103
+Nov  3 19:43:41 johnnydoe461-laptop NetworkManager[475]: <info>    address 172.17.87.243
+Nov  3 20:35:04 johnnydoe461-laptop NetworkManager[454]: <info>    address 10.46.1.101
+Nov  4 01:18:40 johnnydoe461-laptop NetworkManager[469]: <info>    address 10.46.1.103
+Nov  4 05:47:32 johnnydoe461-laptop NetworkManager[452]: <info>    address 10.2.2.110
+Nov  4 19:27:05 johnnydoe461-laptop NetworkManager[482]: <info>    address 172.17.18.45
+Nov  4 19:29:29 johnnydoe461-laptop NetworkManager[482]: <info>    address 10.46.1.103
+
 	
 Questions for TA 
     1. We're assuming a "conversation" includes text interactions where only the other person sends messages (because Pidgin still keeps it as a conversation)
     2. Some nudge for the file on the computer suggests that the victim committed suicide... is "you-cheater.jpg" it; tried every reccomended tool to recover deleted files and specifically Project-Report_Final-Draft.doc; etc.
+
+Instructor questions II:
+    1. For timestamps disregarding the timezone information, use the victim's timezone or our timezone?

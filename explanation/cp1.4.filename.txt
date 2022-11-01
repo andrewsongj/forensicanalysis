@@ -1,0 +1,5 @@
+Used top 10 million passwords to crack the victim
+    sexyman          (johnnydoe461)
+    sexyboy          (root)
+
+Found the evidence file, you-cheater.jpg, in the home directory of johnnydoe461; checked that the file existed in the VM as well. Calculated the hash using "shasum --algorithm 256 ./you-cheater.jpg" double-checking by running the same command in the VM. 

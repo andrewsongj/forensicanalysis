@@ -1,0 +1,1 @@
+Cross referencing the attack times in var/log/auth.log with the dhclient and NetworkManager assigned address in /var/log/syslog, determined the victim IP to be 10.46.1.103; relevant lines of the address being registered are 7641-7644, 10199-10202, and 12109-12112. 

@@ -1,0 +1,7 @@
+Most important: we formatted the modification time using the victim's time zone. 
+
+Used top 10 million passwords to crack the victim
+    sexyman          (johnnydoe461)
+    sexyboy          (root)
+
+Based on the ./you-cheater.jpg evidence time, viewed the modification time in the VM filebrowser for the file. Also double checked by viewing the file modification time since the epoch and converting that into the victim's time zone. 

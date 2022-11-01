@@ -1,0 +1,5 @@
+Used top 10 million passwords to crack the victim
+    sexyman          (johnnydoe461)
+    sexyboy          (root)
+
+Login name got via opening terminal (which matched the login determined by jack the ripper)

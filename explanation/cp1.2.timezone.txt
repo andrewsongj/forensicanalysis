@@ -1,0 +1,5 @@
+Used top 10 million passwords to crack the victim
+    sexyman          (johnnydoe461)
+    sexyboy          (root)
+
+Timezone got via terminal date command and checking /etc/timezone

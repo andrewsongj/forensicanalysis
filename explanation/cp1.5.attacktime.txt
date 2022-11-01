@@ -1,0 +1,3 @@
+Most important: we formatted the time using the victim's time zone. 
+
+Using the file var/log/auth.log, determined the start of the attack to be on line 407 when the IP 10.46.1.105 sends a disconnect for ssh/sshd preauth, which corresponds to a time of Nov 3 18:32:06. 

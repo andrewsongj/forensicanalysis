@@ -1,0 +1,1 @@
+Using the file var/log/auth.log, determined that the IPs 10.46.1.105 and 10.46.1.106 attempted to ssh into the computer (starting at lines 407 and 563, respectively). 
