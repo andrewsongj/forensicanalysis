@@ -1,4 +1,4 @@
-Most important: we formatted the modification time using the victim's time zone. 
+Most important: we formatted the modification time using the victim's time zone. Using our timezone (EDT) the modification time would be "11042215". For an absolute modification time, the file was modified 1446693345 Unix time. 
 
 Used top 10 million passwords to crack the victim
     sexyman          (johnnydoe461)
