@@ -1,0 +1,1 @@
+Looked under wh1t3r0s3 home folder, .mozilla/firefox/4651x29t.default/places.sqlite and examined with autopsy to see database entries, exported to search_history.csv.
