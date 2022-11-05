@@ -1,0 +1,5 @@
+Used the following command to unzip with password
+    unzip -P aborted ./password.zip
+Yielded the file password.txt
+Used the following command to calculate the SHA256 checksum
+    shasum --algorithm 256 ./password.txt
