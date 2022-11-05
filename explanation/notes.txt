@@ -62,3 +62,12 @@ Questions for TA
 
 Instructor questions II:
     1. For timestamps disregarding the timezone information, use the victim's timezone or our timezone?
+
+Suspect mount commands
+    sudo mount --options loop,ro,noexec,offset=32256 suspect.raw ./tempmount/
+    sudo mount --options loop,ro,noexec,offset=510656512 suspect.raw ./tempmount/
+
+# cp2.3.filelist.txt
+
+fls -m / -r -o 997376 -F ./suspect.raw > 2-3-fls_out.txt
+mactime -b ./2-3-fls_out.txt -d -z GMT 2015-11-04T15:00:00..2015-11-05T05:59:59 | csvtool namedcol "File Name" - | tail -n +2 | sed 's/^\(.*\) (.*)$/\1/' | uniq -u | sed -n '/^\/home\/wh1t3r0s3\//p' > cp2.3.filelist.txt

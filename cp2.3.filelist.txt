@@ -1,59 +1,3 @@
-/home/wh1t3r0s3/.cache/upstart/gnome-keyring-ssh.log.6.gz
-/home/wh1t3r0s3/.cache/upstart/update-notifier-release.log.6.gz
-/home/wh1t3r0s3/.cache/upstart/gnome-keyring-gpg.log.6.gz
-/home/wh1t3r0s3/.cache/upstart/ssh-agent.log.6.gz
-/home/wh1t3r0s3/.cache/upstart/im-config.log.6.gz
-/home/wh1t3r0s3/.cache/upstart/lxsession.log.6.gz
-/home/wh1t3r0s3/.cache/upstart/dbus.log.6.gz
-/home/wh1t3r0s3/.cache/upstart/dbus.log.6.gz
-/home/wh1t3r0s3/.purple/xmpp-caps.xml
-/home/wh1t3r0s3/.purple/certificates/x509/tls_peers/jwchat.org
-/home/wh1t3r0s3/.purple/certificates/x509/tls_peers/jwchat.org.save (deleted-realloc)
-/home/wh1t3r0s3/.purple/certificates/x509/tls_peers
-/home/wh1t3r0s3/.gstreamer-0.10/registry.i686.bin
-/home/wh1t3r0s3/.gstreamer-0.10/registry.i686.bin.tmpVCLP7X (deleted-realloc)
-/home/wh1t3r0s3/.gstreamer-0.10/registry.i686.bin
-/home/wh1t3r0s3/.gstreamer-0.10/registry.i686.bin.tmpVCLP7X (deleted-realloc)
-/home/wh1t3r0s3/.gstreamer-0.10
-/home/wh1t3r0s3/.purple/smileys
-/home/wh1t3r0s3/.config/enchant/en_US.dic
-/home/wh1t3r0s3/.config/enchant/en_US.exc
-/home/wh1t3r0s3/.config/enchant
-/home/wh1t3r0s3/.cache/mozilla/firefox/postinst (deleted-realloc)
-/home/wh1t3r0s3/.gstreamer-0.10/registry.i686.bin
-/home/wh1t3r0s3/.gstreamer-0.10/registry.i686.bin.tmpVCLP7X (deleted-realloc)
-/home/wh1t3r0s3/.cache/thunderbird/r83d37ln.default
-/home/wh1t3r0s3/.thunderbird/r83d37ln.default/compatibility.ini
-/home/wh1t3r0s3/.cache/thunderbird/r83d37ln.default/startupCache
-/home/wh1t3r0s3/.cache/upstart/gnome-keyring-ssh.log.6.gz
-/home/wh1t3r0s3/.cache/upstart/im-config.log.6.gz
-/home/wh1t3r0s3/.cache/upstart/update-notifier-release.log.6.gz
-/home/wh1t3r0s3/.cache/upstart/lxsession.log.6.gz
-/home/wh1t3r0s3/.cache/upstart/dbus.log.6.gz
-/home/wh1t3r0s3/.cache/upstart/gnome-keyring-gpg.log.6.gz
-/home/wh1t3r0s3/.cache/upstart/ssh-agent.log.6.gz
-/home/wh1t3r0s3/.gconf/desktop
-/home/wh1t3r0s3/.gconf/desktop/%gconf.xml
-/home/wh1t3r0s3/.gconf/desktop/gnome
-/home/wh1t3r0s3/.gconf/desktop/gnome/%gconf.xml
-/home/wh1t3r0s3/.gconf/desktop/gnome/url-handlers
-/home/wh1t3r0s3/.gconf/desktop/gnome/url-handlers/%gconf.xml
-/home/wh1t3r0s3/.gconf/desktop/gnome/url-handlers/mailto
-/home/wh1t3r0s3/.gconf/desktop/gnome/url-handlers/mailto/%gconf.xml
-/home/wh1t3r0s3/.gconf/desktop/gnome/url-handlers/mailto/%gconf.xml.new (deleted-realloc)
-/home/wh1t3r0s3/.local/share/applications
-/home/wh1t3r0s3/.local/share/applications/mimeapps.list
-/home/wh1t3r0s3/.local/share/applications/mimeapps.list.PGLP7X (deleted-realloc)
-/home/wh1t3r0s3/.cache/event-sound-cache.tdb.9b8e0e5a490346f1ed3d26b30000000d.i686-pc-linux-gnu
-/home/wh1t3r0s3/.cache/event-sound-cache.tdb.9b8e0e5a490346f1ed3d26b30000000d.i686-pc-linux-gnu
-/home/wh1t3r0s3/.thunderbird/r83d37ln.default/ImapMail/imap.gmail.com/[Gmail].sbd/Drafts.msf
-/home/wh1t3r0s3/.thunderbird/r83d37ln.default/ImapMail/imap.gmail.com/[Gmail].sbd/Important.msf
-/home/wh1t3r0s3/.thunderbird/r83d37ln.default/ImapMail/imap.gmail.com/[Gmail].sbd/All Mail.msf
-/home/wh1t3r0s3/.thunderbird/r83d37ln.default/ImapMail/imap.gmail.com/[Gmail].sbd/Starred.msf
-/home/wh1t3r0s3/.thunderbird/r83d37ln.default/ImapMail/imap.gmail.com/[Gmail].sbd/All Mail
-/home/wh1t3r0s3/.cache/thunderbird/r83d37ln.default/startupCache
-/home/wh1t3r0s3/.cache/thunderbird/r83d37ln.default/startupCache/startupCache.4.little
-/home/wh1t3r0s3/.cache/upstart/dbus.log.5.gz
 /home/wh1t3r0s3/.cache/upstart/gnome-keyring-ssh.log.5.gz
 /home/wh1t3r0s3/.cache/upstart/im-config.log.5.gz
 /home/wh1t3r0s3/.cache/upstart/update-notifier-release.log.5.gz
@@ -67,10 +11,10 @@
 /home/wh1t3r0s3/.cache/upstart/ssh-agent.log.5.gz
 /home/wh1t3r0s3/.cache/upstart/lxsession.log.5.gz
 /home/wh1t3r0s3/.cache/upstart/dbus.log.5.gz
-/home/wh1t3r0s3/.mozilla/firefox/copyright (deleted)
-/home/wh1t3r0s3/.mozilla/firefox/copyright.dpkg-new (deleted)
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/273863923 (deleted)
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1003411184 (deleted)
+/home/wh1t3r0s3/.mozilla/firefox/copyright
+/home/wh1t3r0s3/.mozilla/firefox/copyright.dpkg-new
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/273863923
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1003411184
 /home/wh1t3r0s3/.cache/upstart/dbus.log.5.gz
 /home/wh1t3r0s3/.cache/upstart/gnome-keyring-ssh.log.5.gz
 /home/wh1t3r0s3/.cache/upstart/im-config.log.5.gz
@@ -78,52 +22,39 @@
 /home/wh1t3r0s3/.cache/upstart/lxsession.log.5.gz
 /home/wh1t3r0s3/.cache/upstart/gnome-keyring-gpg.log.5.gz
 /home/wh1t3r0s3/.cache/upstart/ssh-agent.log.5.gz
-/home/wh1t3r0s3/.purple
-/home/wh1t3r0s3/.purple/logs
-/home/wh1t3r0s3/.purple/logs/jabber
-/home/wh1t3r0s3/.purple/logs/jabber/wh1t3r0s3@jwchat.org
-/home/wh1t3r0s3/.purple/logs/jabber/wh1t3r0s3@jwchat.org/johnnydoe461@jwchat.org
 /home/wh1t3r0s3/.purple/blist.xml
-/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/lock (deleted-realloc)
+/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/lock
 /home/wh1t3r0s3/.purple/prefs.xml
 /home/wh1t3r0s3/.purple/logs/jabber/wh1t3r0s3@jwchat.org/johnnydoe461@jwchat.org/2015-11-04.091802-0600CST.html
-/home/wh1t3r0s3/.purple/logs/jabber/wh1t3r0s3@jwchat.org/johnnydoe461@jwchat.org
 /home/wh1t3r0s3/.purple/logs/jabber/wh1t3r0s3@jwchat.org/johnnydoe461@jwchat.org/2015-11-04.091802-0600CST.html
 /home/wh1t3r0s3/.mozilla/firefox/profiles.ini
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/extensions.ini
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/pluginreg.dat
-/home/wh1t3r0s3/.mozilla/firefox/README.source.dpkg-new (deleted)
+/home/wh1t3r0s3/.mozilla/firefox/README.source.dpkg-new
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/secmod.db
-/home/wh1t3r0s3/.mozilla/firefox/copyright.problems.gz (deleted-realloc)
-/home/wh1t3r0s3/.mozilla/firefox/copyright.problems.gz.dpkg-new (deleted-realloc)
+/home/wh1t3r0s3/.mozilla/firefox/copyright.problems.gz
+/home/wh1t3r0s3/.mozilla/firefox/copyright.problems.gz.dpkg-new
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/permissions.sqlite
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/blocklist.xml
-/home/wh1t3r0s3/.gconf/desktop
-/home/wh1t3r0s3/.gconf/desktop/gnome
-/home/wh1t3r0s3/.gconf/desktop/gnome/url-handlers
-/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/extensions
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/extensions.json
-/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/bookmarkbackups
-/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/healthreport/test-phish-simple.pset (deleted)
+/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/healthreport/test-phish-simple.pset
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/addons.json
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/search.json
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/65EE3A4D76187244E99F7C4454E45354343A884F
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/webappsstore.sqlite
-/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/storage/permanent/chrome
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/260092132 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/260092132
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/mimeTypes.rdf
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/sessionstore-backups/upgrade.js-20151015172906
-/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/sessionstore-backups
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/B391CAC1A3B1C496A147C8A7959AA2C64AA73576
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/87AA998E020CC2A1A3D6EF8A9C71094AAA6E2E6D
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/D731F31AD9393B743A018AEF1F8A690849637E40
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/F1B5C3EDE100D4A38A0A28F1CEF6FAEFB619EC1B (deleted)
-/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/healthreport/test-malware-simple.sbstore (deleted)
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/F1B5C3EDE100D4A38A0A28F1CEF6FAEFB619EC1B (deleted)
-/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/healthreport/test-malware-simple.sbstore (deleted)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/F1B5C3EDE100D4A38A0A28F1CEF6FAEFB619EC1B
+/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/healthreport/test-malware-simple.sbstore
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/F1B5C3EDE100D4A38A0A28F1CEF6FAEFB619EC1B
+/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/healthreport/test-malware-simple.sbstore
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/datareporting/state.json
-/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/datareporting/state.json.tmp (deleted-realloc)
-/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/healthreport/test-malware-simple.pset (deleted-realloc)
+/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/datareporting/state.json.tmp
+/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/healthreport/test-malware-simple.pset
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/8CB8E56740B95D9E2D48179AA1E87F0E505BAC4F
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/27EFDC6840E09FC0C6737557DAE7F771AD7CBB27
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/AF1AF667B24D52B0CFC62E1296193E8EB9165B71
@@ -207,9 +138,8 @@
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/AE46D4568AD9263C4E0553A132971A4F38E6286E
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/7F02D33E2AB7E09754CDE8464ED5982091FC713A
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/pluginreg.dat
-/home/wh1t3r0s3/.cache/gstreamer-1.0
 /home/wh1t3r0s3/.cache/gstreamer-1.0/registry.i686.bin
-/home/wh1t3r0s3/.cache/gstreamer-1.0/registry.i686.bin.tmpQL5I7X (deleted-realloc)
+/home/wh1t3r0s3/.cache/gstreamer-1.0/registry.i686.bin.tmpQL5I7X
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/1DCEA4BD510F91BCF9CB5D64D750DFDB87119FC3
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/AE46D4568AD9263C4E0553A132971A4F38E6286E
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/B7380A8C043DED46A9CFF16FADCA9BE310D9C8E3
@@ -235,70 +165,57 @@
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/B7380A8C043DED46A9CFF16FADCA9BE310D9C8E3
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/95A52A14F3B4F2B5F2A77119B628458365187E82
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/frequencyCap.json
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/thumbnails
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/thumbnails/108ea418e928f0b76ffcf0f46d69c5a6.png (deleted)
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/thumbnails/c91b571e36dacdaeaf29be475f7fedaa.png (deleted)
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/thumbnails/f13d669ce273a3f24a0d8eb63e32bbf6.png (deleted)
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/thumbnails/2f91909a48620e5eca4d6b5f471ce652.png (deleted)
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/thumbnails/df4c22b316717969163487ce35c3c9a3.png (deleted)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/thumbnails/108ea418e928f0b76ffcf0f46d69c5a6.png
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/thumbnails/c91b571e36dacdaeaf29be475f7fedaa.png
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/thumbnails/f13d669ce273a3f24a0d8eb63e32bbf6.png
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/thumbnails/2f91909a48620e5eca4d6b5f471ce652.png
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/thumbnails/df4c22b316717969163487ce35c3c9a3.png
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/1D5C55A29AEE116F80EC68A16BE60F1719893C94
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/521678468 (deleted-realloc)
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/727291205 (deleted-realloc)
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1265604683 (deleted-realloc)
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/281866016 (deleted-realloc)
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1345758329 (deleted-realloc)
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/521678468 (deleted-realloc)
-/home/wh1t3r0s3/.cache/gstreamer-1.0/test-phish-simple.cache (deleted-realloc)
-/home/wh1t3r0s3/.cache/gstreamer-1.0/goog-badbinurl-shavar.cache (deleted-realloc)
-/home/wh1t3r0s3/.cache/gstreamer-1.0/test-phish-simple.pset (deleted-realloc)
-/home/wh1t3r0s3/.cache/gstreamer-1.0/goog-unwanted-shavar.cache (deleted-realloc)
-/home/wh1t3r0s3/.cache/gstreamer-1.0/test-malware-simple.pset (deleted-realloc)
-/home/wh1t3r0s3/.cache/gstreamer-1.0/goog-unwanted-shavar.sbstore (deleted-realloc)
-/home/wh1t3r0s3/.cache/gstreamer-1.0/goog-malware-shavar.pset (deleted-realloc)
-/home/wh1t3r0s3/.cache/gstreamer-1.0/goog-unwanted-shavar.pset (deleted-realloc)
-/home/wh1t3r0s3/.cache/gstreamer-1.0/test-unwanted-simple.sbstore (deleted-realloc)
-/home/wh1t3r0s3/.cache/gstreamer-1.0/goog-phish-shavar.sbstore (deleted-realloc)
-/home/wh1t3r0s3/.cache/gstreamer-1.0/goog-malware-shavar.cache (deleted-realloc)
-/home/wh1t3r0s3/.cache/gstreamer-1.0/goog-malware-shavar.sbstore (deleted-realloc)
-/home/wh1t3r0s3/.cache/gstreamer-1.0/test-malware-simple.sbstore (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/521678468
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/727291205
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1265604683
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/281866016
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1345758329
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/521678468
+/home/wh1t3r0s3/.cache/gstreamer-1.0/test-phish-simple.cache
+/home/wh1t3r0s3/.cache/gstreamer-1.0/goog-badbinurl-shavar.cache
+/home/wh1t3r0s3/.cache/gstreamer-1.0/test-phish-simple.pset
+/home/wh1t3r0s3/.cache/gstreamer-1.0/goog-unwanted-shavar.cache
+/home/wh1t3r0s3/.cache/gstreamer-1.0/goog-unwanted-shavar.sbstore
+/home/wh1t3r0s3/.cache/gstreamer-1.0/goog-malware-shavar.pset
+/home/wh1t3r0s3/.cache/gstreamer-1.0/test-unwanted-simple.sbstore
+/home/wh1t3r0s3/.cache/gstreamer-1.0/goog-phish-shavar.sbstore
+/home/wh1t3r0s3/.cache/gstreamer-1.0/goog-malware-shavar.cache
+/home/wh1t3r0s3/.cache/gstreamer-1.0/goog-malware-shavar.sbstore
+/home/wh1t3r0s3/.cache/gstreamer-1.0/test-malware-simple.sbstore
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/sessionstore-backups/previous.js
-/home/wh1t3r0s3/.cache/gstreamer-1.0/test-phish-simple.cache (deleted-realloc)
-/home/wh1t3r0s3/.cache/gstreamer-1.0/goog-badbinurl-shavar.cache (deleted-realloc)
-/home/wh1t3r0s3/.cache/gstreamer-1.0/test-unwanted-simple-1.cache (deleted-realloc)
-/home/wh1t3r0s3/.cache/gstreamer-1.0/test-unwanted-simple.cache (deleted-realloc)
-/home/wh1t3r0s3/.cache/gstreamer-1.0/test-phish-simple.pset (deleted-realloc)
-/home/wh1t3r0s3/.cache/gstreamer-1.0/goog-unwanted-shavar.cache (deleted-realloc)
-/home/wh1t3r0s3/.cache/gstreamer-1.0/test-malware-simple.pset (deleted-realloc)
-/home/wh1t3r0s3/.cache/gstreamer-1.0/goog-unwanted-shavar.sbstore (deleted-realloc)
-/home/wh1t3r0s3/.cache/gstreamer-1.0/goog-malware-shavar.pset (deleted-realloc)
-/home/wh1t3r0s3/.cache/gstreamer-1.0/goog-badbinurl-shavar.pset (deleted-realloc)
-/home/wh1t3r0s3/.cache/gstreamer-1.0/test-unwanted-simple.pset (deleted-realloc)
-/home/wh1t3r0s3/.cache/gstreamer-1.0/test-phish-simple.sbstore (deleted-realloc)
-/home/wh1t3r0s3/.cache/gstreamer-1.0/goog-badbinurl-shavar.sbstore (deleted-realloc)
-/home/wh1t3r0s3/.cache/gstreamer-1.0/goog-unwanted-shavar.pset (deleted-realloc)
-/home/wh1t3r0s3/.cache/gstreamer-1.0/test-unwanted-simple.sbstore (deleted-realloc)
-/home/wh1t3r0s3/.cache/gstreamer-1.0/goog-phish-shavar.sbstore (deleted-realloc)
-/home/wh1t3r0s3/.cache/gstreamer-1.0/goog-malware-shavar.cache (deleted-realloc)
-/home/wh1t3r0s3/.cache/gstreamer-1.0/goog-malware-shavar.sbstore (deleted-realloc)
-/home/wh1t3r0s3/.cache/gstreamer-1.0/test-malware-simple.sbstore (deleted-realloc)
+/home/wh1t3r0s3/.cache/gstreamer-1.0/test-phish-simple.cache
+/home/wh1t3r0s3/.cache/gstreamer-1.0/goog-badbinurl-shavar.cache
+/home/wh1t3r0s3/.cache/gstreamer-1.0/test-unwanted-simple-1.cache
+/home/wh1t3r0s3/.cache/gstreamer-1.0/test-unwanted-simple.cache
+/home/wh1t3r0s3/.cache/gstreamer-1.0/test-phish-simple.pset
+/home/wh1t3r0s3/.cache/gstreamer-1.0/goog-unwanted-shavar.cache
+/home/wh1t3r0s3/.cache/gstreamer-1.0/goog-unwanted-shavar.sbstore
+/home/wh1t3r0s3/.cache/gstreamer-1.0/goog-malware-shavar.pset
+/home/wh1t3r0s3/.cache/gstreamer-1.0/goog-badbinurl-shavar.pset
+/home/wh1t3r0s3/.cache/gstreamer-1.0/test-unwanted-simple.pset
+/home/wh1t3r0s3/.cache/gstreamer-1.0/test-phish-simple.sbstore
+/home/wh1t3r0s3/.cache/gstreamer-1.0/goog-badbinurl-shavar.sbstore
+/home/wh1t3r0s3/.cache/gstreamer-1.0/test-unwanted-simple.sbstore
+/home/wh1t3r0s3/.cache/gstreamer-1.0/goog-phish-shavar.sbstore
+/home/wh1t3r0s3/.cache/gstreamer-1.0/goog-malware-shavar.cache
+/home/wh1t3r0s3/.cache/gstreamer-1.0/goog-malware-shavar.sbstore
+/home/wh1t3r0s3/.cache/gstreamer-1.0/test-malware-simple.sbstore
 /home/wh1t3r0s3/.cache/menus/7c47233cbbd3f313f602ccfa2126a9b7
-/home/wh1t3r0s3/.cache/menus/7c47233cbbd3f313f602ccfa2126a9b7ZGQR7X (deleted-realloc)
-/home/wh1t3r0s3/.cache/menus
-/home/wh1t3r0s3/.cache/gstreamer-1.0/test-phish-simple.cache (deleted-realloc)
-/home/wh1t3r0s3/.cache/gstreamer-1.0/test-phish-simple.sbstore (deleted-realloc)
-/home/wh1t3r0s3/.config/ubuntu-tweak/temp/session-bus (deleted-realloc)
-/home/wh1t3r0s3/.config/ubuntu-tweak
-/home/wh1t3r0s3/.config/ubuntu-tweak/temp
+/home/wh1t3r0s3/.cache/menus/7c47233cbbd3f313f602ccfa2126a9b7ZGQR7X
+/home/wh1t3r0s3/.cache/gstreamer-1.0/test-phish-simple.cache
+/home/wh1t3r0s3/.cache/gstreamer-1.0/test-phish-simple.sbstore
+/home/wh1t3r0s3/.config/ubuntu-tweak/temp/session-bus
 /home/wh1t3r0s3/.config/ubuntu-tweak/ubuntu-tweak.log
-/home/wh1t3r0s3/.cache/webkit
-/home/wh1t3r0s3/.cache/webkit/icondatabase
 /home/wh1t3r0s3/.cache/webkit/icondatabase/WebpageIcons.db
-/home/wh1t3r0s3/.cache/webkit/icondatabase/WebpageIcons.db-journal (deleted-realloc)
+/home/wh1t3r0s3/.cache/webkit/icondatabase/WebpageIcons.db-journal
 /home/wh1t3r0s3/.config/compiz-1/compizconfig/Default.ini
-/home/wh1t3r0s3/.config/compiz-1
-/home/wh1t3r0s3/.config/compiz-1/compizconfig
 /home/wh1t3r0s3/.config/compiz-1/compizconfig/config
-/home/wh1t3r0s3/.cache/compizconfig-1
 /home/wh1t3r0s3/.cache/compizconfig-1/place.pb
 /home/wh1t3r0s3/.cache/compizconfig-1/commands.pb
 /home/wh1t3r0s3/.cache/compizconfig-1/core.pb
@@ -325,16 +242,10 @@
 /home/wh1t3r0s3/.cache/compizconfig-1/scale.pb
 /home/wh1t3r0s3/.cache/compizconfig-1/fade.pb
 /home/wh1t3r0s3/.config/compiz-1/compizconfig/done_upgrades
-/home/wh1t3r0s3/.config/ubuntu-tweak/tweaks
 /home/wh1t3r0s3/.config/ubuntu-tweak/tweaks/__init__.py
-/home/wh1t3r0s3/.config/ubuntu-tweak/appcenter
-/home/wh1t3r0s3/.config/ubuntu-tweak/admins
 /home/wh1t3r0s3/.config/ubuntu-tweak/admins/__init__.py
-/home/wh1t3r0s3/.config/ubuntu-tweak/clips
 /home/wh1t3r0s3/.config/ubuntu-tweak/clips/__init__.py
-/home/wh1t3r0s3/.config/ubuntu-tweak
 /home/wh1t3r0s3/.config/ubuntu-tweak/ubuntu-tweak.log
-/home/wh1t3r0s3/.config/ubuntu-tweak/janitor
 /home/wh1t3r0s3/.config/ubuntu-tweak/janitor/__init__.py
 /home/wh1t3r0s3/.cache/upstart/dbus.log.4.gz
 /home/wh1t3r0s3/.cache/webkit/icondatabase/WebpageIcons.db
@@ -361,27 +272,22 @@
 /home/wh1t3r0s3/.cache/upstart/ssh-agent.log.4.gz
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/.parentlock
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/compatibility.ini
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/startupCache
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/SiteSecurityServiceState.txt
-/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/webapps/webapps-1.json (deleted-realloc)
+/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/webapps/webapps-1.json
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/webapps/webapps.json
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/index.tmp (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/index.tmp
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/revocations.txt
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/extensions.json
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/frequencyCap.json
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/sessionstore-backups/previous.js
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/cert8.db
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/key3.db
-/home/wh1t3r0s3/.mozilla/firefox/changelog.Debian.gz (deleted-realloc)
-/home/wh1t3r0s3/.mozilla/firefox/changelog.Debian.gz.dpkg-new (deleted-realloc)
-/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/webapps
+/home/wh1t3r0s3/.mozilla/firefox/changelog.Debian.gz
+/home/wh1t3r0s3/.mozilla/firefox/changelog.Debian.gz.dpkg-new
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/search-metadata.json
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/search.json
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/65EE3A4D76187244E99F7C4454E45354343A884F
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/cookies.sqlite
-/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/storage/permanent/chrome/idb
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/A65C25BDA3C68198A6FBD1013F78DD583F88CF14
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/sessionstore-backups/previous.js
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/F733ECF25BBACA033F7480F5600D8DAAEC99F4F1
@@ -392,9 +298,8 @@
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/F1B5C3EDE100D4A38A0A28F1CEF6FAEFB619EC1B
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/929BCF811537CE5A1B05BC367E7D5FCD9D1512C2
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/healthreport.sqlite
-/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/healthreport/test-phish-simple.sbstore (deleted-realloc)
+/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/healthreport/test-phish-simple.sbstore
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/EE7632E6A31A2B65BA9BED295510B60EFF9D8D65
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/safebrowsing
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/safebrowsing/goog-phish-shavar.pset
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/safebrowsing/test-phish-simple.sbstore
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/safebrowsing/test-unwanted-simple.cache
@@ -416,15 +321,12 @@
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/safebrowsing/goog-phish-shavar.cache
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/safebrowsing/goog-phish-shavar.sbstore
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/safebrowsing/goog-malware-shavar.cache
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default
-/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/storage/permanent/chrome/idb
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/safebrowsing
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/safebrowsing/goog-unwanted-shavar.sbstore
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/safebrowsing/test-phish-simple.sbstore
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/safebrowsing/goog-malware-shavar.sbstore
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/safebrowsing/test-unwanted-simple.sbstore
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/safebrowsing/test-malware-simple.sbstore
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/safebrowsing/goog-unwanted-shavar-1.cache (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/safebrowsing/goog-unwanted-shavar-1.cache
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/safebrowsing/goog-unwanted-shavar.cache
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/safebrowsing/goog-unwanted-shavar.pset
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/safebrowsing/goog-phish-shavar.sbstore
@@ -433,7 +335,7 @@
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/F18D85F52EBBBA2AB081EF739ED0D6E8A76D497C
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/formhistory.sqlite
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/783A806E8F9A2A87A6F16151448CC63BEBEB44BE
-/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/storage/permanent/chrome/idb/2918063365piupsah.sqlite-wal (deleted-realloc)
+/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/storage/permanent/chrome/idb/2918063365piupsah.sqlite-wal
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/1008BC80933E54045BD852293AA695AB1CDA1D5B
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/374FE354D3DFB6F17738DF467FBA957847B6170F
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/C06EEA9619B9182E57A55F5F311ADF3B38AD4523
@@ -532,7 +434,6 @@
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/209D96F7DD731B0C384E17DEB4198E8622363F4C
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/1950A39C3C1A73B450F6B16D4D4007ACC1BD7B58
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/209D96F7DD731B0C384E17DEB4198E8622363F4C
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/C5AC5A66772A648DD0DBBD4F34AC0D2ACE6A36E3
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/523643279186E77B893C24BA291F2CD2B70964E9
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/023717F88A154E60C2C7804FD9AA08C1EB744D1E
@@ -629,7 +530,7 @@
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/521AD2FAF1831B1B8C4A417A3E2F1AD0A1ADC245
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/BBAE7965068DE3E5DD5BA9A079DF7CD18C4019FD
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/7F5EB70B019382548C09324A4F41D42EBE9AFEB6
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/045CC21D454F3491850448E5AC3060ED3F0DB91C (deleted)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/045CC21D454F3491850448E5AC3060ED3F0DB91C
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/CE3B7494D0132DFFC14E8205E14E2F2876DDBB2A
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/F3326C2CF28C5139A5358DE776F8CF6337A00803
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/523502A90DF3522C9BD506F9F749C63EC396728C
@@ -795,19 +696,18 @@
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/3A78541B04066C256597C62FB3B8F1FC2D1B242E
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/733B6218AEAA27EF60764FCD077F0AB8C8C8F8D3
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/858DBE4DF6D9CC052CFD498145C50D3AC253E6B9
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/startupCache
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/safebrowsing-backup (deleted-realloc)
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/safebrowsing-to_delete (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/safebrowsing-backup
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/safebrowsing-to_delete
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/startupCache/startupCache.4.little
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/00BB5DDF80089E2D0A4E970C0D282C31A8AED5D7
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/783A806E8F9A2A87A6F16151448CC63BEBEB44BE
-/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/storage/permanent/chrome/idb/2918063365piupsah.sqlite-wal (deleted-realloc)
+/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/storage/permanent/chrome/idb/2918063365piupsah.sqlite-wal
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/F4E6244AC29E00439B0E00DB0CE513A6F2F199E2
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/C5AC5A66772A648DD0DBBD4F34AC0D2ACE6A36E3
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/0034182D0EC575235A665877B35561E82ECB81E9
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/01C13BCDBA154C2206DE11D89F1883F5DD4EECDA
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/783A806E8F9A2A87A6F16151448CC63BEBEB44BE
-/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/storage/permanent/chrome/idb/2918063365piupsah.sqlite-wal (deleted-realloc)
+/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/storage/permanent/chrome/idb/2918063365piupsah.sqlite-wal
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/F4E6244AC29E00439B0E00DB0CE513A6F2F199E2
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/65EA78453B6D5340BFDC2BBD3FCD01610920DC36
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/F2E134101127AE8828ED4AD992512272D5FB074C
@@ -824,33 +724,33 @@
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/A0C82822FFFC398F0AA6DE83DFE5FDA58462877E
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/1945F7774639A5DDFB786636590937487E3F88EC
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/B6106C0B0884BD54CABAE97744A42D8D733BF7B1
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1839940173 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1839940173
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/BDC19D84D28CCCF275E5A5BE58AEB9036DD35666
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/802723865 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/802723865
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/BD81ECECEE9A6E5EAD91BA9851B769F007389FCC
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/386006693 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/386006693
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/DC77DC9900D1D2B8D7814D43D2C597370EEBC632
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1992494056 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1992494056
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/41FFF0B572253221613E49FEAE034965D103B074
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1867196183 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1867196183
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/08D102C22DF1BB2AFB9DFB4046C9A81F5AEB3E9D
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/220863041 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/220863041
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/2952FF1F3095B69EAA6DA1D8225D62FEF9FBC099
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1008153886 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1008153886
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/EAE25D52B20346D0B43B486BA322380D11E2FD8C
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1499170661 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1499170661
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/030F84A22F6B6EEAEFCFAAE8196CBE1A79EE3FA1
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1380900725 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1380900725
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/C41874FF2977B79A7C7B9D5E2A216BB8070ABEF7
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/495707828 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/495707828
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/E7D2C23EA2F416969A9C330DDEA2E8A60D166C5C
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1606004860 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1606004860
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/EF83B9EF12225DA3030CAD9B05E8D8B612C7D2C5
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/821180544 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/821180544
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/92135746B0582EB1D0AFCA4D6E4E9D0E4EB047FE
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1477636593 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1477636593
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/0492CDB850C063E3B975E65E362D1FAE4F5A5426
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1710586476 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1710586476
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/2087EB10EDF891059CD0ADF6D01C4EE8CBAA999E
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/62858517B011B018466980508FF1992401E8EB04
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/D0071A286D25824E6CA47E4E27C1950605A12D80
@@ -885,33 +785,33 @@
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/A0C82822FFFC398F0AA6DE83DFE5FDA58462877E
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/1945F7774639A5DDFB786636590937487E3F88EC
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/B6106C0B0884BD54CABAE97744A42D8D733BF7B1
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1839940173 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1839940173
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/BDC19D84D28CCCF275E5A5BE58AEB9036DD35666
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/802723865 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/802723865
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/BD81ECECEE9A6E5EAD91BA9851B769F007389FCC
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/386006693 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/386006693
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/DC77DC9900D1D2B8D7814D43D2C597370EEBC632
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1992494056 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1992494056
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/41FFF0B572253221613E49FEAE034965D103B074
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1867196183 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1867196183
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/08D102C22DF1BB2AFB9DFB4046C9A81F5AEB3E9D
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/220863041 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/220863041
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/2952FF1F3095B69EAA6DA1D8225D62FEF9FBC099
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1008153886 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1008153886
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/EAE25D52B20346D0B43B486BA322380D11E2FD8C
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1499170661 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1499170661
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/030F84A22F6B6EEAEFCFAAE8196CBE1A79EE3FA1
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1380900725 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1380900725
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/C41874FF2977B79A7C7B9D5E2A216BB8070ABEF7
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/495707828 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/495707828
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/E7D2C23EA2F416969A9C330DDEA2E8A60D166C5C
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1606004860 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1606004860
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/EF83B9EF12225DA3030CAD9B05E8D8B612C7D2C5
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/821180544 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/821180544
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/92135746B0582EB1D0AFCA4D6E4E9D0E4EB047FE
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1477636593 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1477636593
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/0492CDB850C063E3B975E65E362D1FAE4F5A5426
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1710586476 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1710586476
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/2087EB10EDF891059CD0ADF6D01C4EE8CBAA999E
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/D0071A286D25824E6CA47E4E27C1950605A12D80
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/EE8D1F198AF51F562EDA4BD7F9D79B711759703E
@@ -975,7 +875,7 @@
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/26BC3928D3D499568FE956F9A7EE1E8A59506954
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/1ED0917C093BBBF3CA21FED6630F7B5B6024BE56
 /home/wh1t3r0s3/.cache/gstreamer-1.0/registry.i686.bin
-/home/wh1t3r0s3/.cache/gstreamer-1.0/registry.i686.bin.tmpQL5I7X (deleted-realloc)
+/home/wh1t3r0s3/.cache/gstreamer-1.0/registry.i686.bin.tmpQL5I7X
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/F3BC348301BCA82E132A6ED1C3F805E5653B6427
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/4DAE30C9AC273BC09EAFAF0EF80A56A19794DBBD
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/73E47D363F63CCFD08E45B2B1B60F2CCA67BD43B
@@ -992,27 +892,20 @@
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/FDBC9B2C5243A51FD727FB4D89D3870A791F8BCD
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/F3BC348301BCA82E132A6ED1C3F805E5653B6427
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/content-prefs.sqlite
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1434106030 (deleted)
-/home/wh1t3r0s3/.config/gtk-2.0
-/home/wh1t3r0s3/.cache/gstreamer-1.0/test-malware-simple.cache (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1434106030
+/home/wh1t3r0s3/.cache/gstreamer-1.0/test-malware-simple.cache
 /home/wh1t3r0s3/.config/gtk-2.0/gtkfilechooser.ini
-/home/wh1t3r0s3/.config/gtk-2.0/gtkfilechooser.ini.ZTP76X (deleted-realloc)
+/home/wh1t3r0s3/.config/gtk-2.0/gtkfilechooser.ini.ZTP76X
 /home/wh1t3r0s3/.cache/upstart/dbus.log.3.gz
 /home/wh1t3r0s3/.thumbnails/normal/cd04c9e3bc6428226e230469c27f041e.png
-/home/wh1t3r0s3/.thumbnails/normal/cd04c9e3bc6428226e230469c27f041e.png.THBG7X (deleted-realloc)
-/home/wh1t3r0s3/.thumbnails/normal
+/home/wh1t3r0s3/.thumbnails/normal/cd04c9e3bc6428226e230469c27f041e.png.THBG7X
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/3DAACF7F00E8F394A186B12B2400C85D31267452
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/16B9ED8CE73184ACFC8B5FDC822406B34CE223EF
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/3F8DB389D196FC56563A1950E9619E342131737D
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/3F8DB389D196FC56563A1950E9619E342131737D
-/home/wh1t3r0s3/.config
-/home/wh1t3r0s3/.config/abiword
-/home/wh1t3r0s3/.config/abiword/templates
 /home/wh1t3r0s3/.config/abiword/profile
-/home/wh1t3r0s3/.config/gtk-2.0/test-phish-simple.cache (deleted-realloc)
-/home/wh1t3r0s3/.local/share/gvfs-metadata/home-9651c9cd.log (deleted)
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/safebrowsing-backup (deleted-realloc)
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/safebrowsing-to_delete (deleted-realloc)
+/home/wh1t3r0s3/.config/gtk-2.0/test-phish-simple.cache
+/home/wh1t3r0s3/.local/share/gvfs-metadata/home-9651c9cd.log
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/safebrowsing-backup
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/safebrowsing-to_delete
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/startupCache/startupCache.4.little
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/0FBEFDF0AD66C1AF706CC4B74D55374B9F2A96E2
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/0F789490F9B2DF06F1357AE38BB7D9DAA3AEDB08
@@ -1138,17 +1031,16 @@
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/5C5883E006CFA414640028563AAED97C4EA1157B
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/27C684EDACD14B1112BC814B6CA210294B91F9F1
 /home/wh1t3r0s3/.cache/upstart/update-notifier-crash-_var_crash__usr_bin_abiword.1000.crash.log.2.gz
-/home/wh1t3r0s3/.config/gtk-2.0/goog-malware-shavar.pset (deleted-realloc)
+/home/wh1t3r0s3/.config/gtk-2.0/goog-malware-shavar.pset
 /home/wh1t3r0s3/.config/abiword/profile
-/home/wh1t3r0s3/.config/gtk-2.0/test-phish-simple.cache (deleted-realloc)
-/home/wh1t3r0s3/Desktop/evilplan.doc (deleted)
-/home/wh1t3r0s3/.config/abiword
+/home/wh1t3r0s3/.config/gtk-2.0/test-phish-simple.cache
+/home/wh1t3r0s3/Desktop/evilplan.doc
 /home/wh1t3r0s3/.config/abiword/profile
-/home/wh1t3r0s3/.config/gtk-2.0/test-phish-simple.cache (deleted-realloc)
-/home/wh1t3r0s3/.config/abiword/.gsf-save-Z91H7X (deleted-realloc)
+/home/wh1t3r0s3/.config/gtk-2.0/test-phish-simple.cache
+/home/wh1t3r0s3/.config/abiword/.gsf-save-Z91H7X
 /home/wh1t3r0s3/.config/abiword/AbiCollab.Profile
-/home/wh1t3r0s3/.config/gtk-2.0/test-unwanted-simple-1.cache (deleted-realloc)
-/home/wh1t3r0s3/.config/gtk-2.0/test-unwanted-simple.cache (deleted-realloc)
+/home/wh1t3r0s3/.config/gtk-2.0/test-unwanted-simple-1.cache
+/home/wh1t3r0s3/.config/gtk-2.0/test-unwanted-simple.cache
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/6C9B846926C287B15F67D64CE91F1CFA7D812660
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/53DAE4B1D7BFF6744CCAF7207DE631267F9883DC
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/996FF69B28B46AA08240D5B033726E178EA73F53
@@ -1407,19 +1299,19 @@
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/578B4D0717D4BD23ED4BC873931BD0CD426A3AAA
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/F22AA77ED2634FA9984FF2EA049CE41127A81A3A
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/8DC26CCB3E00399EBB3AA5EEE4B923C2D39F4F28
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/4E0ADFCC41266F52E9FEF9628479D8EFD405E422 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/4E0ADFCC41266F52E9FEF9628479D8EFD405E422
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/B42DF3251179923F0D44B294107ADED224B4D7E2
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/2C55C1B28C2D371F480D32E18FBFF548CCAD6A93
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/77626B371099190BC9825B057B89BBD62B11DCBE
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/95740C22130FD0AE5F62B27E574BCD56B2834B80
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1389886069 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1389886069
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/2A6000B44D29B67E0E3025C169C0A6E27828CCC9
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/64E47DCEA12EC237CDD40D100FFEED0AE39CFEDD
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/CB5BE97AD7E63C1838771512F5D3555384302A06
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/E3DB3A783A864314BF2CDF1133D49EC8BA46D840
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/CA25B625CA5D854C71264D4D674B4445F40DDE0B
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/18A147ED4DF3E8B9E38B43B21C25397B7ECA3A85
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/269186500 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/269186500
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/434FE2656F6BB1E6B2CD07046D71CDC8067927A3
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/169E0499BB778EE9F27A8EA71E029F36849D2718
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/756A5A0D87CE55E85FA1137B80405D9D49A53E55
@@ -1427,25 +1319,25 @@
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/62C2D935266285F55B3785B22048E06A8DC20F2D
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/16B9ED8CE73184ACFC8B5FDC822406B34CE223EF
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/2851E42B9FE6B36C09D785E984708886252BB7D3
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1206137327 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1206137327
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/4956850B92644DF80F1E10D0FF4F8262B469BDA9
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1899998903 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1899998903
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/772B1182E838FB14693737B0E6F601556B12D7E5
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/687706546 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/687706546
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/634D24D8B5CAD9C2D5EA6687F2ACA6FCD65D5342
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/BF13DDDC114B55CF8532A4CD90403A99233AEC0E
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/236164800 (deleted-realloc)
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/791292209 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/236164800
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/791292209
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/522EB180D25FB193A50030D586E174180C503BDC
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/265370186 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/265370186
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/D397FD12D213250397BC8C3C656BCC01B86F6C59
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1696285011 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1696285011
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/2F2F87AC93D8EF8DC4071D98F67386DD1997BA6E
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/568094472 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/568094472
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/CF09E932EA390C153EAF7A876106F07E1FD1AEF1
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/722041449 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/722041449
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/47D3C00DB3FC6F19D82CB92CD883ACC285F667B1
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1017553389 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1017553389
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/07961CCADF10A1A4687807DA7E55ACE1FC327558
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/E2E18AA12BB51113A590C085C12E72D78C0D024C
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/4821EA7270E25F52B6CC425EB5394E7994735723
@@ -1455,24 +1347,24 @@
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/2851E42B9FE6B36C09D785E984708886252BB7D3
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/F88C04691C7FE8E7E2116013FB26068048D6A7AA
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/F3C25FF6F24F6E41940315D10111FF32E6DBFF77
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1206137327 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1206137327
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/4956850B92644DF80F1E10D0FF4F8262B469BDA9
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1899998903 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1899998903
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/772B1182E838FB14693737B0E6F601556B12D7E5
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/687706546 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/687706546
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/634D24D8B5CAD9C2D5EA6687F2ACA6FCD65D5342
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/236164800 (deleted-realloc)
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/791292209 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/236164800
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/791292209
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/522EB180D25FB193A50030D586E174180C503BDC
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/265370186 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/265370186
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/D397FD12D213250397BC8C3C656BCC01B86F6C59
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1696285011 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1696285011
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/2F2F87AC93D8EF8DC4071D98F67386DD1997BA6E
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/568094472 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/568094472
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/CF09E932EA390C153EAF7A876106F07E1FD1AEF1
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/722041449 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/722041449
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/47D3C00DB3FC6F19D82CB92CD883ACC285F667B1
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1017553389 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1017553389
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/07961CCADF10A1A4687807DA7E55ACE1FC327558
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/E2E18AA12BB51113A590C085C12E72D78C0D024C
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/4821EA7270E25F52B6CC425EB5394E7994735723
@@ -1483,13 +1375,12 @@
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/217D63521078EB1347865E77CDD0A7C830D208DD
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/3DAACF7F00E8F394A186B12B2400C85D31267452
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/159F2DBBF77F6FA7F23FAB223ACE1D21C3822640
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/107564184 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/107564184
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/568BBD44C0645971134EAAB1B6042CDECBF3900C
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/400171131 (deleted-realloc)
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/400171131
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/40148834082159A6DC7FAF17E2BDAD2DA473A50E
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/healthreport.sqlite
-/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/healthreport/test-phish-simple.sbstore (deleted-realloc)
+/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/healthreport/test-phish-simple.sbstore
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/AF1AF667B24D52B0CFC62E1296193E8EB9165B71
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/1008BC80933E54045BD852293AA695AB1CDA1D5B
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/50C85291713202E01D775FB41809DAD266225F7D
@@ -1501,85 +1392,79 @@
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/165C42E3150A343CC06BE3C61C46B81228446CC1
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/xulstore.json
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/sessionCheckpoints.json
-/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/sessionCheckpoints.json.tmp (deleted-realloc)
+/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/sessionCheckpoints.json.tmp
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/sessionstore.js
-/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/sessionstore.js.tmp (deleted-realloc)
+/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/sessionstore.js.tmp
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/cert8.db
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/key3.db
-/home/wh1t3r0s3/.mozilla/firefox/changelog.Debian.gz (deleted-realloc)
-/home/wh1t3r0s3/.mozilla/firefox/changelog.Debian.gz.dpkg-new (deleted-realloc)
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries
+/home/wh1t3r0s3/.mozilla/firefox/changelog.Debian.gz
+/home/wh1t3r0s3/.mozilla/firefox/changelog.Debian.gz.dpkg-new
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/places.sqlite
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/cookies.sqlite
-/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/sessionstore-backups
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/webappsstore.sqlite
-/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/places.sqlite-shm (deleted-realloc)
-/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/prefs-1.js (deleted-realloc)
+/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/places.sqlite-shm
+/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/prefs-1.js
 /home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/prefs.js
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/index.log
-/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/webapps/webapps-2.json (deleted-realloc)
-/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/webappsstore.sqlite-wal (deleted-realloc)
+/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/webapps/webapps-2.json
+/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/webappsstore.sqlite-wal
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/index
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/50C85291713202E01D775FB41809DAD266225F7D
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/9DE9E13A31836FD251DF512A3CC33617A4A760BF
-/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2
 /home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/entries/F18D85F52EBBBA2AB081EF739ED0D6E8A76D497C
 /home/wh1t3r0s3/.cache/upstart/gnome-keyring-ssh.log.3.gz
 /home/wh1t3r0s3/.cache/upstart/im-config.log.3.gz
 /home/wh1t3r0s3/.cache/upstart/update-notifier-release.log.3.gz
-/home/wh1t3r0s3/.config/gtk-2.0/test-phish-simple.pset (deleted-realloc)
+/home/wh1t3r0s3/.config/gtk-2.0/test-phish-simple.pset
 /home/wh1t3r0s3/.cache/upstart/lxsession.log.3.gz
-/home/wh1t3r0s3/.config/gtk-2.0/test-malware-simple.cache (deleted-realloc)
+/home/wh1t3r0s3/.config/gtk-2.0/test-malware-simple.cache
 /home/wh1t3r0s3/.cache/upstart/gnome-keyring-gpg.log.3.gz
-/home/wh1t3r0s3/.config/gtk-2.0/test-unwanted-simple.pset (deleted-realloc)
+/home/wh1t3r0s3/.config/gtk-2.0/test-unwanted-simple.pset
 /home/wh1t3r0s3/.cache/upstart/ssh-agent.log.3.gz
-/home/wh1t3r0s3/.config/gtk-2.0/test-phish-simple.sbstore (deleted-realloc)
+/home/wh1t3r0s3/.config/gtk-2.0/test-phish-simple.sbstore
 /home/wh1t3r0s3/.thumbnails/normal/cd04c9e3bc6428226e230469c27f041e.png
-/home/wh1t3r0s3/.thumbnails/normal/cd04c9e3bc6428226e230469c27f041e.png.THBG7X (deleted-realloc)
+/home/wh1t3r0s3/.thumbnails/normal/cd04c9e3bc6428226e230469c27f041e.png.THBG7X
 /home/wh1t3r0s3/.cache/upstart/dbus.log.3.gz
 /home/wh1t3r0s3/.config/lxterminal/lxterminal.conf
 /home/wh1t3r0s3/.cache/upstart/gnome-keyring-ssh.log.3.gz
 /home/wh1t3r0s3/.cache/upstart/im-config.log.3.gz
 /home/wh1t3r0s3/.cache/upstart/dbus.log.3.gz
 /home/wh1t3r0s3/.cache/upstart/update-notifier-release.log.3.gz
-/home/wh1t3r0s3/.config/gtk-2.0/test-phish-simple.pset (deleted-realloc)
+/home/wh1t3r0s3/.config/gtk-2.0/test-phish-simple.pset
 /home/wh1t3r0s3/.cache/upstart/lxsession.log.3.gz
-/home/wh1t3r0s3/.config/gtk-2.0/test-malware-simple.cache (deleted-realloc)
+/home/wh1t3r0s3/.config/gtk-2.0/test-malware-simple.cache
 /home/wh1t3r0s3/.cache/upstart/gnome-keyring-gpg.log.3.gz
-/home/wh1t3r0s3/.config/gtk-2.0/test-unwanted-simple.pset (deleted-realloc)
+/home/wh1t3r0s3/.config/gtk-2.0/test-unwanted-simple.pset
 /home/wh1t3r0s3/.cache/upstart/ssh-agent.log.3.gz
-/home/wh1t3r0s3/.config/gtk-2.0/test-phish-simple.sbstore (deleted-realloc)
-/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/sessionCheckpoints.json.tmp (deleted-realloc)
+/home/wh1t3r0s3/.config/gtk-2.0/test-phish-simple.sbstore
+/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/sessionCheckpoints.json.tmp
 /home/wh1t3r0s3/Project-Report_Final-Draft.doc
-/home/wh1t3r0s3/.gnome2/keyrings
 /home/wh1t3r0s3/.purple/status.xml
-/home/wh1t3r0s3/.gnome2/keyrings/.#lk0x9dcc5a8.wh1t3r0s3-laptop.1436 (deleted-realloc)
-/home/wh1t3r0s3/.gnome2/keyrings/user.keystore.lock (deleted-realloc)
+/home/wh1t3r0s3/.gnome2/keyrings/.#lk0x9dcc5a8.wh1t3r0s3-laptop.1436
+/home/wh1t3r0s3/.gnome2/keyrings/user.keystore.lock
 /home/wh1t3r0s3/.purple/accounts.xml
-/home/wh1t3r0s3/.purple/accounts.xml.save (deleted-realloc)
-/home/wh1t3r0s3/.purple
+/home/wh1t3r0s3/.purple/accounts.xml.save
 /home/wh1t3r0s3/.cache/upstart/dbus.log.2.gz
-/home/wh1t3r0s3/.config/gtk-2.0/test-malware-simple.sbstore (deleted-realloc)
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/403601479 (deleted)
-/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/sessionstore-backups/recovery.bak (deleted)
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1538257945 (deleted)
-/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1795264383 (deleted)
-/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/sessionstore-backups/recovery.js (deleted)
-/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/sessionstore-backups/recovery.js.tmp (deleted)
+/home/wh1t3r0s3/.config/gtk-2.0/test-malware-simple.sbstore
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/403601479
+/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/sessionstore-backups/recovery.bak
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1538257945
+/home/wh1t3r0s3/.cache/mozilla/firefox/4651x29t.default/cache2/doomed/1795264383
+/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/sessionstore-backups/recovery.js
+/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/sessionstore-backups/recovery.js.tmp
 /home/wh1t3r0s3/.xsession-errors.old
 /home/wh1t3r0s3/.cache/upstart/gnome-keyring-ssh.log.2.gz
 /home/wh1t3r0s3/.cache/upstart/im-config.log.2.gz
 /home/wh1t3r0s3/.cache/upstart/update-notifier-release.log.2.gz
-/home/wh1t3r0s3/.config/gtk-2.0/goog-badbinurl-shavar.cache (deleted-realloc)
+/home/wh1t3r0s3/.config/gtk-2.0/goog-badbinurl-shavar.cache
 /home/wh1t3r0s3/.cache/upstart/update-notifier-crash-_var_crash__usr_bin_abiword.1000.crash.log.2.gz
-/home/wh1t3r0s3/.config/gtk-2.0/goog-malware-shavar.pset (deleted-realloc)
+/home/wh1t3r0s3/.config/gtk-2.0/goog-malware-shavar.pset
 /home/wh1t3r0s3/.cache/upstart/lxsession.log.2.gz
-/home/wh1t3r0s3/.config/gtk-2.0/goog-badbinurl-shavar.sbstore (deleted-realloc)
+/home/wh1t3r0s3/.config/gtk-2.0/goog-badbinurl-shavar.sbstore
 /home/wh1t3r0s3/.cache/upstart/gnome-keyring-gpg.log.2.gz
 /home/wh1t3r0s3/.cache/upstart/ssh-agent.log.2.gz
 /home/wh1t3r0s3/.cache/upstart/dbus.log.2.gz
-/home/wh1t3r0s3/.config/gtk-2.0/test-malware-simple.sbstore (deleted-realloc)
+/home/wh1t3r0s3/.config/gtk-2.0/test-malware-simple.sbstore
 /home/wh1t3r0s3/.xsession-errors.old
 /home/wh1t3r0s3/.bash_logout
 /home/wh1t3r0s3/.xscreensaver
@@ -1587,47 +1472,40 @@
 /home/wh1t3r0s3/.cache/upstart/gnome-keyring-ssh.log.2.gz
 /home/wh1t3r0s3/.cache/upstart/im-config.log.2.gz
 /home/wh1t3r0s3/.cache/upstart/update-notifier-release.log.2.gz
-/home/wh1t3r0s3/.config/gtk-2.0/goog-badbinurl-shavar.cache (deleted-realloc)
+/home/wh1t3r0s3/.config/gtk-2.0/goog-badbinurl-shavar.cache
 /home/wh1t3r0s3/.cache/upstart/update-notifier-crash-_var_crash__usr_bin_abiword.1000.crash.log.2.gz
-/home/wh1t3r0s3/.config/gtk-2.0/goog-malware-shavar.pset (deleted-realloc)
+/home/wh1t3r0s3/.config/gtk-2.0/goog-malware-shavar.pset
 /home/wh1t3r0s3/.cache/upstart/lxsession.log.2.gz
-/home/wh1t3r0s3/.config/gtk-2.0/goog-badbinurl-shavar.sbstore (deleted-realloc)
+/home/wh1t3r0s3/.config/gtk-2.0/goog-badbinurl-shavar.sbstore
 /home/wh1t3r0s3/.cache/upstart/dbus.log.2.gz
-/home/wh1t3r0s3/.config/gtk-2.0/test-malware-simple.sbstore (deleted-realloc)
+/home/wh1t3r0s3/.config/gtk-2.0/test-malware-simple.sbstore
 /home/wh1t3r0s3/.cache/upstart/gnome-keyring-gpg.log.2.gz
 /home/wh1t3r0s3/.cache/upstart/ssh-agent.log.2.gz
-/home/wh1t3r0s3/.config/libfm
 /home/wh1t3r0s3/.config/libfm/libfm.conf
-/home/wh1t3r0s3/.config/pcmanfm/lubuntu
 /home/wh1t3r0s3/.config/pcmanfm/lubuntu/pcmanfm.conf
-/home/wh1t3r0s3/.config/pcmanfm/lubuntu/pcmanfm.conf.BTZF7X (deleted-realloc)
-/home/wh1t3r0s3/.config/gtk-2.0/goog-badbinurl-shavar.pset (deleted-realloc)
+/home/wh1t3r0s3/.config/pcmanfm/lubuntu/pcmanfm.conf.BTZF7X
+/home/wh1t3r0s3/.config/gtk-2.0/goog-badbinurl-shavar.pset
 /home/wh1t3r0s3/.config/libfm/dir-settings.conf
-/home/wh1t3r0s3/.config/libfm/dir-settings.tmp (deleted-realloc)
-/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/storage/permanent/chrome/idb/2918063365piupsah.sqlite-shm (deleted-realloc)
+/home/wh1t3r0s3/.config/libfm/dir-settings.tmp
+/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/storage/permanent/chrome/idb/2918063365piupsah.sqlite-shm
 /home/wh1t3r0s3/Desktop/password.zip
-/home/wh1t3r0s3/Desktop/zil0FiGb (deleted-realloc)
-/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/storage/permanent/chrome/idb/2918063365piupsah.sqlite-shm (deleted-realloc)
+/home/wh1t3r0s3/Desktop/zil0FiGb
+/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/storage/permanent/chrome/idb/2918063365piupsah.sqlite-shm
 /home/wh1t3r0s3/Desktop/password.zip
-/home/wh1t3r0s3/Desktop/zil0FiGb (deleted-realloc)
+/home/wh1t3r0s3/Desktop/zil0FiGb
 /home/wh1t3r0s3/.cache/upstart/dbus.log.1.gz
 /home/wh1t3r0s3/.config/dconf/user
-/home/wh1t3r0s3/.config/dconf/user.CMOS7X (deleted-realloc)
+/home/wh1t3r0s3/.config/dconf/user.CMOS7X
 /home/wh1t3r0s3/.local/share/recently-used.xbel
-/home/wh1t3r0s3/.local/share/recently-used.xbel.O5RN7X (deleted-realloc)
-/home/wh1t3r0s3/.local/share
-/home/wh1t3r0s3/.config/dconf
+/home/wh1t3r0s3/.local/share/recently-used.xbel.O5RN7X
 /home/wh1t3r0s3/.config/leafpad/leafpadrc
 /home/wh1t3r0s3/.config/leafpad/leafpadrc
-/home/wh1t3r0s3/.local/share/gvfs-metadata/home-9651c9cd.log (deleted)
-/home/wh1t3r0s3/.local/share/gvfs-metadata
-/home/wh1t3r0s3/.mozilla/firefox/4651x29t.default/extensions/trash (deleted-realloc)
+/home/wh1t3r0s3/.local/share/gvfs-metadata/home-9651c9cd.log
 /home/wh1t3r0s3/.local/share/gvfs-metadata/home
-/home/wh1t3r0s3/.local/share/gvfs-metadata/home.41UO7X (deleted-realloc)
+/home/wh1t3r0s3/.local/share/gvfs-metadata/home.41UO7X
 /home/wh1t3r0s3/.local/share/gvfs-metadata/home-40f6573c.log
-/home/wh1t3r0s3/.local/share/gvfs-metadata/home-40f6573c.log.GYRO7X (deleted-realloc)
-/home/wh1t3r0s3/Desktop
-/home/wh1t3r0s3/Desktop/evilplan.doc (deleted)
+/home/wh1t3r0s3/.local/share/gvfs-metadata/home-40f6573c.log.GYRO7X
+/home/wh1t3r0s3/Desktop/evilplan.doc
 /home/wh1t3r0s3/.bash_history
 /home/wh1t3r0s3/.xsession-errors.old
-/home/wh1t3r0s3/.local/share/gvfs-metadata/home-9651c9cd.log (deleted)
+/home/wh1t3r0s3/.local/share/gvfs-metadata/home-9651c9cd.log

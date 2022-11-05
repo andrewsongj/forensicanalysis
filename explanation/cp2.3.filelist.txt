@@ -1,4 +1,10 @@
-Create the input to mactime using fls with the "-m /home/wh1t3r0s3" and "-r" options
-Create mactime with the -d (to make comma delimited) and -b option, using the file created above as the input 
-Import the csv created with mactime into (filelist.xlsx)
-Look for files between 2015-11-04T09:00:00-06:00 and 2015-11-04T23:59:59-06:00 
+Commands run with explanation below:
+    fls -m / -r -o 997376 -F ./suspect.raw > 2-3-fls_out.txt
+        Runs fls with (-m /) a machine format output so that mactime can be used, (-r) recursively from the root directory, (-o 997376) with an offset corresponding to suspect.raw6 -- where the home directory is in suspect.raw, (-F) outputting file entries only -- not directory entries
+    mactime -b ./2-3-fls_out.txt -d -z GMT 2015-11-04T15:00:00..2015-11-05T05:59:59 | csvtool namedcol "File Name" - | tail -n +2 | sed 's/^\(.*\) (.*)$/\1/' | uniq -u | sed -n '/^\/home\/wh1t3r0s3\//p' > tdl2.txt
+        Use mactime on the fls output to extract comma delimited entries only in the specified date range (used unix epoch time to GMT for convienence)
+        Use csvtool to only get filenames
+        Use tail to remove the first line (has the csv output column headers)
+        Use sed to remove any info after the filename e.g. (deleted-realloc)
+        Use uniq to only get unique lines
+        Use sed to only match entries within the user's home directory
