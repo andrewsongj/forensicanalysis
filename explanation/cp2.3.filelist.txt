@@ -1,3 +1,4 @@
 Create the input to mactime using fls with the "-m /home/wh1t3r0s3" and "-r" options
-Create mactime with the -b option, using the file created above as the input (homeFileTimeline.txt)
+Create mactime with the -d (to make comma delimited) and -b option, using the file created above as the input 
+Import the csv created with mactime into (filelist.xlsx)
 Look for files between 2015-11-04T09:00:00-06:00 and 2015-11-04T23:59:59-06:00 
