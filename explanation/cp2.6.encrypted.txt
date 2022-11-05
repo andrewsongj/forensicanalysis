@@ -1,0 +1,5 @@
+Found the zip file using the following command: 
+    sudo find ./tempmount/ -iname "*.zip"
+The zip file was located at home/wh1t3r0s3/Desktop/password.zip
+Used the following command to calculate the SHA256 checksum
+    shasum --algorithm 256 ./password.zip
