@@ -1,0 +1,1 @@
+password.zip/password.txt:$pkzip$1*2*2*0*13*7*51a381f3*0*46*0*13*53da*c014d4071034025c21b96f782e31b1fc664f78*$/pkzip$:password.txt:password.zip::/mnt/hgfs/autonomousShared/CS4630DefenseAgainstTheDarkArts/a6/disk_images/password.zip
