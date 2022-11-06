@@ -100,7 +100,7 @@ Used sigfind to try to match the first four bytes of the file with victim.raw wi
     sigfind 7b5c7274 ./victim.raw
 Yielded Block: 5189664
 Translasted to bytes would be 5189664 * 512 = 2657107968
-Getting the size of the file from mounting victim.raw usng the stat command: 73764 bytes
+Getting the size of the file from using the stat command: 73764 bytes
 Verify that the bytes are the same by verifying the byte contents are identical: 
     xxd -plain -s 2657107968 -l 73764 ./victim.raw > project_doc_victim_bytes.txt
     xxd -plain ./Project-Report_Final-Draft.doc > project_doc_suspect_bytes.txt
@@ -116,3 +116,41 @@ Used the following command to calculate the SHA256 checksum
     shasum --algorithm 256 ./Project-Report_Final-Draft.doc
 
 f46d9a83b5ca60f64a20486b2b7a465495310f4155bd1e9ab4acc0e8cb009115
+
+# cp2.9.filename.txt
+
+Using the suspect's bash log file at home/wh1t3r0s3/.bash_history (saved in explanation as bash_history), determined the file to be home/wh1t3r0s3/Desktop/evilplan.doc
+
+evilplan.doc
+
+# cp2.9.deletedtime.txt
+
+Tracing to the suspect's relevant directory using fls and gathering info using istat with the following commands:
+    fls -o 997376 suspect.raw
+    fls -o 997376 suspect.raw 130052
+    fls -o 997376 suspect.raw 171623
+    fls -o 997376 suspect.raw 137934
+Above yielded the inode 139243
+The following command yields the deleted time for the specified inode.
+    istat -o 997376 suspect.raw 139243
+Yielded 2015-11-04 23:11:13 (EST)
+Converted to unix epoch time using WolframAlpha: UnixTime [2015-11-04 23:11:13 (EST)]
+Yielded 1446696673
+
+1446696673
+
+# cp2.9.filelocation.txt
+BELOW DOESN'T WORK BUT LEAVING FOR REFERENCE
+    Used testdisk to create an image of the specific partition of interest (explanation/image.dd), then used extundelete with the following command to recover the file:
+        extundelete ./image.dd --restore-file home/wh1t3r0s3/Desktop/evilplan.doc
+    Used sigfind to try to match the first four bytes of the file with suspect.raw with the following command:
+        sigfind 2f646576 ./suspect.raw
+    Yielded Block: 105055 (only match at start of a block)
+    Translasted to bytes would be 105055 * 512 = 53788160
+    Getting the size of the file from using the stat command: 40791 bytes
+    Verify that the bytes are the same by verifying the byte contents are identical: 
+        xxd -plain -s 53788160 -l 40791 ./suspect.raw > evilplan_doc_suspect_bytes.txt
+        xxd -plain ./evilplan.doc > evilplan_doc_recovered_bytes.txt
+        diff evilplan_doc_suspect_bytes.txt evilplan_doc_recovered_bytes.txt
+    The diff yielded no difference so the check is good. 
+    dd skip=53788160 count=40791 bs=1 if=./suspect.raw of=evilplan.doc
