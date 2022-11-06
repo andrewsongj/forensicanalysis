@@ -1,0 +1,10 @@
+Used sigfind to try to match the first four bytes of the file with victim.raw with the following command:
+    sigfind 7b5c7274 ./victim.raw
+Yielded Block: 5189664
+Translasted to bytes would be 5189664 * 512 = 2657107968
+Getting the size of the file from mounting victim.raw usng the stat command: 73764 bytes
+Verify that the bytes are the same by verifying the byte contents are identical: 
+    xxd -plain -s 2657107968 -l 73764 ./victim.raw > project_doc_victim_bytes.txt
+    xxd -plain ./Project-Report_Final-Draft.doc > project_doc_suspect_bytes.txt
+    diff project_doc_victim_bytes.txt project_doc_suspect_bytes.txt
+The diff yielded no difference so the check is good. 

@@ -1,0 +1,3 @@
+See cp2.8.filename.txt and cp2.8.filelocation.txt explanations.
+Used the following command to calculate the SHA256 checksum
+    shasum --algorithm 256 ./Project-Report_Final-Draft.doc

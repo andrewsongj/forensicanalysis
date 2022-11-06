@@ -1,0 +1,1 @@
+Using the suspect's bash log file at home/wh1t3r0s3/.bash_history (saved in explanation as bash_history) and the victim's bash history file home/johnnydoe461/.bash_history, determined the suspect was deleting the file home/johnnydoe461/Documents/Project-Report_Final-Draft.doc

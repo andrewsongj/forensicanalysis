@@ -1,0 +1,11 @@
+Tracing to the victim's document directory using fls and gathering info using istat with the following commands:
+    fls -o 2048 victim.raw
+    fls -o 2048 victim.raw 12
+    fls -o 2048 victim.raw 22221
+    fls -o 2048 victim.raw 132483
+Above yielded the inode 131410
+The following command yields the deleted time for the specified inode.
+    istat -o 2048 victim.raw 131410
+Yielded 2015-11-04 22:15:27 (EST)
+Converted to unix epoch time using WolframAlpha: UnixTime [2015-11-04 22:15:27 EST]
+Yielded 1446693327

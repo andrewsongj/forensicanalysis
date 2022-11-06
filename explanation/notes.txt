@@ -71,3 +71,48 @@ Suspect mount commands
 
 fls -m / -r -o 997376 -F ./suspect.raw > 2-3-fls_out.txt
 mactime -b ./2-3-fls_out.txt -d -z GMT 2015-11-04T15:00:00..2015-11-05T05:59:59 | csvtool namedcol "File Name" - | tail -n +2 | sed 's/^\(.*\) (.*)$/\1/' | uniq -u | sed -n '/^\/home\/wh1t3r0s3\//p' > cp2.3.filelist.txt
+
+# cp2.8.filename.txt
+
+Using the suspect's bash log file at home/wh1t3r0s3/.bash_history (saved in explanation as bash_history) and the victim's bash history file home/johnnydoe461/.bash_history, determined the suspect was deleting the file home/johnnydoe461/Documents/Project-Report_Final-Draft.doc
+
+Project-Report_Final-Draft.doc
+
+# cp2.8.deletedtime.txt
+
+Tracing to the victim's document directory using fls and gathering info using istat with the following commands:
+    fls -o 2048 victim.raw
+    fls -o 2048 victim.raw 12
+    fls -o 2048 victim.raw 22221
+    fls -o 2048 victim.raw 132483
+Above yielded the inode 131410
+The following command yields the deleted time for the specified inode.
+    istat -o 2048 victim.raw 131410
+Yielded 2015-11-04 22:15:27 (EST)
+Converted to unix epoch time using WolframAlpha: UnixTime [2015-11-04 22:15:27 EST]
+Yielded 1446693327
+
+1446693327
+
+# cp2.8.filelocation.txt
+
+Used sigfind to try to match the first four bytes of the file with victim.raw with the following command:
+    sigfind 7b5c7274 ./victim.raw
+Yielded Block: 5189664
+Translasted to bytes would be 5189664 * 512 = 2657107968
+Getting the size of the file from mounting victim.raw usng the stat command: 73764 bytes
+Verify that the bytes are the same by verifying the byte contents are identical: 
+    xxd -plain -s 2657107968 -l 73764 ./victim.raw > project_doc_victim_bytes.txt
+    xxd -plain ./Project-Report_Final-Draft.doc > project_doc_suspect_bytes.txt
+    diff project_doc_victim_bytes.txt project_doc_suspect_bytes.txt
+The diff yielded no difference so the check is good. 
+
+2657107968
+73764
+
+# cp2.8.filehash.txt
+
+Used the following command to calculate the SHA256 checksum
+    shasum --algorithm 256 ./Project-Report_Final-Draft.doc
+
+f46d9a83b5ca60f64a20486b2b7a465495310f4155bd1e9ab4acc0e8cb009115
