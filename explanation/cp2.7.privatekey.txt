@@ -1,0 +1,5 @@
+See explanation/cp2.7.publickey.txt
+Matched the public key file /etc/ssh/ssh_host_ecdsa_key.pub with the following private key file:
+    /etc/ssh/ssh_host_ecdsa_key
+Used the following command to calculate the SHA256 checksum
+    shasum --algorithm 256 ./ssh_host_ecdsa_key
