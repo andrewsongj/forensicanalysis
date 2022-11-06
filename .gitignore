@@ -1,3 +1,6 @@
 # temporary files
 ~$*.doc*
 ~$*.xlsx
+# mac stuff
+.DS_Store
+.DS_Store?
