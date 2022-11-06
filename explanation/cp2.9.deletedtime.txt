@@ -1,0 +1,11 @@
+Tracing to the suspect's relevant directory using fls and gathering info using istat with the following commands:
+    fls -o 997376 suspect.raw
+    fls -o 997376 suspect.raw 130052
+    fls -o 997376 suspect.raw 171623
+    fls -o 997376 suspect.raw 137934
+Above yielded the inode 139243
+The following command yields the deleted time for the specified inode.
+    istat -o 997376 suspect.raw 139243
+Yielded 2015-11-04 23:11:13 (EST)
+Converted to unix epoch time using WolframAlpha: UnixTime [2015-11-04 23:11:13 (EST)]
+Yielded 1446696673

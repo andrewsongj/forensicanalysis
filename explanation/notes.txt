@@ -125,6 +125,8 @@ evilplan.doc
 
 # cp2.9.deletedtime.txt
 
+CHANCE THIS ISN'T QUITE RIGHT AND WILL NEED TO BE UPDATED ONCE THE FILE IS FOUND
+
 Tracing to the suspect's relevant directory using fls and gathering info using istat with the following commands:
     fls -o 997376 suspect.raw
     fls -o 997376 suspect.raw 130052
@@ -140,7 +142,7 @@ Yielded 1446696673
 1446696673
 
 # cp2.9.filelocation.txt
-BELOW DOESN'T WORK BUT LEAVING FOR REFERENCE
+BELOW DOESN'T WORK BUT LEAVING FOR REFERENCE... FOR SOME REASON JUST PRODUCES A JUNK FILE DESPITE EVERYTHING SEEMING FINE
     Used testdisk to create an image of the specific partition of interest (explanation/image.dd), then used extundelete with the following command to recover the file:
         extundelete ./image.dd --restore-file home/wh1t3r0s3/Desktop/evilplan.doc
     Used sigfind to try to match the first four bytes of the file with suspect.raw with the following command:

@@ -1,0 +1,1 @@
+Using the suspect's bash log file at home/wh1t3r0s3/.bash_history (saved in explanation as bash_history), determined the file to be home/wh1t3r0s3/Desktop/evilplan.doc
