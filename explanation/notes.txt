@@ -156,3 +156,16 @@ BELOW DOESN'T WORK BUT LEAVING FOR REFERENCE... FOR SOME REASON JUST PRODUCES A 
         diff evilplan_doc_suspect_bytes.txt evilplan_doc_recovered_bytes.txt
     The diff yielded no difference so the check is good. 
     dd skip=53788160 count=40791 bs=1 if=./suspect.raw of=evilplan.doc
+
+# cp2.10.email.txt
+
+Based on the thunderbird inbox file at home/wh1t3r0s3/.thunderbird/r83d37ln.default/ImapMail/imap.gmail.com/INBOX she emailed the following address to inquire about the status of a purchased bus ticket:
+    illini.pony.express@gmail.com
+
+# cp2.10.location.txt
+
+Given that the email concerns an Illinois bus ticket, Illinois Terminal makes the most sense as Illinois Terminal is a bus station. 
+
+# cp2.10.escapetime.txt
+
+As per the email text, the bus is departing at 10:00pm -> 22:00 24-hour -> 2200
