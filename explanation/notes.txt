@@ -169,3 +169,10 @@ Given that the email concerns an Illinois bus ticket, Illinois Terminal makes th
 # cp2.10.escapetime.txt
 
 As per the email text, the bus is departing at 10:00pm -> 22:00 24-hour -> 2200
+
+# cp2.1.default.txt
+
+From the file on the boot OS etc/DISTRO_SPECS
+
+Puppy
+431
