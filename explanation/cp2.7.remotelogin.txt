@@ -1,0 +1,2 @@
+Using the bash log file at home/wh1t3r0s3/.bash_history (saved in explanation as bash_history), determined the last remote login was done by the suspect to the victims computer with ssh using the following user:
+    johnnydoe461
