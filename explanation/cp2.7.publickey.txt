@@ -1,0 +1,7 @@
+Located the suspect's known hosts file at /home/wh1t3r0s3/.ssh/known_hosts
+Extracted the following public key:
+    AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBGcA0z7yCeZffbCc0jEu0pjspeAdBPzlQ55pLzNGxHCA2MKq33K9WAO96gsObDAfn76LSapwiKsZFlMUN5XFfXA=
+Matching the public key to the public keys in the victim's directory /etc/ssh/, it matched the following file:
+    /etc/ssh/ssh_host_ecdsa_key.pub
+Used the following command to calculate the SHA256 checksum
+    shasum --algorithm 256 ./ssh_host_ecdsa_key.pub
