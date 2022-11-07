@@ -1,3 +1,5 @@
 nmap
-aircrack-ng
 hydra
+ping
+ssh
+scp
