@@ -1,0 +1,3 @@
+Used authlog to identify time frame of accesses and attack
+
+Look for NetworkManager hostname 'wh1t3r0s3-laptop' within that timeframe to find the ip addresses

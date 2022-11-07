@@ -1,0 +1,3 @@
+nmap
+aircrack-ng
+hydra
