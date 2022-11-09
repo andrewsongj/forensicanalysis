@@ -1,0 +1,2 @@
+After speaking to TA, file could not be recovered, instead put the location of the file in the directory. Found this location by looking at the bash history.
+Content length is 0 because we looked at the blank version. 

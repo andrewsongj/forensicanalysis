@@ -1,0 +1,1 @@
+Used autopsy to locate evilplan.doc and find the hash. Used the hash for the blank version of evilplan.doc
